@@ -182,9 +182,8 @@ This project is part of the CodeAlpha Machine Learning Internship program. Pleas
 ## 👨‍💻 Author
 
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+- GitHub: [@Krishjunier](https://github.com/Krishjunier)
+- Email: gk5139272@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -193,13 +192,6 @@ This project is part of the CodeAlpha Machine Learning Internship program. Pleas
 - **TensorFlow Team**: For the excellent deep learning framework
 - **FastAPI**: For the modern web framework
 
-## 📞 Support
 
-For questions or support regarding this project:
-- **CodeAlpha Website**: www.codealpha.tech
-- **WhatsApp**: +91 8052293611
-- **Email**: services@codealpha.tech
-
----
 
 **⭐ If you found this project helpful, please give it a star!**
